@@ -164,93 +164,37 @@ const projects = [
   },
   {
     id: 'project-2',
-    name: 'Leaderboard',
+    name: 'Soni Liya',
     description:
-      'A leaderboard list app that displays scores submitted by different players.',
-    tags: [
-      {
-        name: 'react',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'restapi',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'scss',
-        color: 'pink-text-gradient',
-      },
-    ],
+      'This contact management app enables users to easily manage contacts with features like calling, messaging, and searching, offering a simple and intuitive interface.',
     image: leaderboard,
-    repo: 'https://github.com/shaqdeff/Leaderboard',
-    demo: 'https://shaqdeff.github.io/Leaderboard/',
+    repo: 'https://github.com/0yaser0/ContactApp_V2',
+    demo: 'https://github.com/0yaser0/ContactApp_V2',
   },
   {
     id: 'project-3',
-    name: 'Math Magicians',
-    description: 'This is a single-page calculator app built with React',
-    tags: [
-      {
-        name: 'nextjs',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'supabase',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'css',
-        color: 'pink-text-gradient',
-      },
-    ],
+    name: 'Alarmini',
+    description: 'Alarmini Compose is an Android app built with Jetpack Compose and MVVM architecture, designed to help users efficiently manage alarms, view active alarms, and receive notifications when alarms go off',
     image: math,
-    repo: 'https://github.com/shaqdeff/Math-Magicians',
-    demo: 'https://inspiring-medovik-37d3b3.netlify.app/',
+    repo: 'https://github.com/0yaser0/Alarmini_Compose',
+    demo: 'https://github.com/0yaser0/Alarmini_Compose',
   },
   {
     id: 'project-4',
-    name: 'Movie Metro',
-    description: `A single-page application that allows users to search for any movie or show's ratings and its details.`,
-    tags: [
-      {
-        name: 'nextjs',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'supabase',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'css',
-        color: 'pink-text-gradient',
-      },
-    ],
+    name: 'web recipes',
+    description: `Explore a variety of delicious recipes with easy-to-follow instructions, all optimized for quick meals and healthy eating. I also worked with Three.js to create 3D models, enhancing interactive recipe visualization.`,
     image: movie,
-    repo: 'https://github.com/shaqdeff/Movie-Metro',
-    demo: 'https://movie-metro.netlify.app/',
+    repo: 'https://github.com/0yaser0/Project_school',
+    demo: 'https://github.com/0yaser0/Project_school',
   },
   {
     id: 'project-5',
-    name: 'Nyeusi Fest Site',
+    name: 'Robotic',
     description:
-      'This is a demo concert website for a music festival called Nyeusi.',
-    tags: [
-      {
-        name: 'nextjs',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'supabase',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'css',
-        color: 'pink-text-gradient',
-      },
-    ],
+      'As a member of the robotics club, I\'ve contributed to the design and assembly of various robots, enhancing my skills in robotics and technology. Using Three.js, I\’ve also developed 3D models to showcase the mechanical aspects of these robots, improving our projects\' interactivity and presentation.',
     image: nyeusi,
-    repo: 'https://github.com/shaqdeff/Nyeusi-Fest-Site',
-    demo: 'https://shaqdeff.github.io/Nyeusi-Fest-Site/',
+    repo: 'https://github.com/0yaser0',
+    demo: 'https://github.com/0yaser0',
   },
 ];
 

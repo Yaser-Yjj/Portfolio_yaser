@@ -30,7 +30,7 @@ import git from './tech/git.png';
 import html from './tech/html.png';
 import javascript from './tech/javascript.png';
 import Cpp from './tech/C++.png';
-import android_studio from './tech/Android_studio.png';
+import android_studio from './tech/Android_Studio.png';
 import arduino from './tech/arduino.png';
 import C from './tech/C.png';
 import kotlin from './tech/kotlin.png';

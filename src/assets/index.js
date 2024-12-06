@@ -24,7 +24,7 @@ import send from './icons/send.png';
 import sendHover from './icons/sendHover.png';
 
 import css from './tech/css.png';
-import docker from './tech/docker.png';
+import php from './tech/php.png';
 import figma from './tech/figma.png';
 import git from './tech/git.png';
 import html from './tech/html.png';
@@ -34,10 +34,10 @@ import android_studio from './tech/android_studio.png';
 import arduino from './tech/arduino.png';
 import C from './tech/C.png';
 import kotlin from './tech/kotlin.png';
-import graphql from './tech/graphql.png';
-import postgresql from './tech/postgresql.png';
+import sqlLite from './tech/sqlite.png';
 import python from './tech/python.png';
 import Flutter from './tech/flutter.png';
+
 import coverhunt from './company/coverhunt.png';
 import dcc from './company/dcc.png';
 import kelhel from './company/kelhel.png';
@@ -73,14 +73,13 @@ export {
   send,
   sendHover,
   css,
-  docker,
+  php,
   figma,
   git,
-  graphql,
   html,
   javascript,
   Cpp,
-  postgresql,
+  sqlLite,
   Flutter,
   python,
   android_studio,

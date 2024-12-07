@@ -1,5 +1,7 @@
 # 🌟 Yaser's Portfolio 🌟
 
+![Home_page_portfolio](https://github.com/user-attachments/assets/c86f51dc-9d46-45d1-b814-c2bf422931b7)
+
 ## 🚀 Introduction
 
 This portfolio was created to showcase my projects and skills in a professional and interactive manner. Inspired by modern designs, it offers a customizable interface to suit your needs. I decided to make it open-source to help other developers learn and build their own portfolios.

@@ -173,11 +173,11 @@ const projects = [
   },
   {
     id: 'project-3',
-    name: 'Alarmini',
-    description: 'Alarmini Compose is an Android app built with Jetpack Compose and MVVM architecture, designed to help users efficiently manage alarms, view active alarms, and receive notifications when alarms go off',
+    name: 'Any Taxy',
+    description: 'This Android app simulates a taxi meter 🚖, tracking real-time distance 🌍, time ⏱️, and fare 💰 with Google Maps. It calculates fares dynamically, displays the driver\'s profile 👤, generates QR codes 📱, and sends notifications 🔔. Supports multiple languages 🌐 and manages permissions 🛂.',
     image: math,
-    repo: 'https://github.com/0yaser0/Alarmini_Compose',
-    demo: 'https://github.com/0yaser0/Alarmini_Compose',
+    repo: 'https://github.com/0yaser0/Any-Taxy',
+    demo: 'https://github.com/0yaser0/Any-Taxy',
   },
   {
     id: 'project-4',

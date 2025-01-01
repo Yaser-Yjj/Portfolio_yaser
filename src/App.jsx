@@ -1,4 +1,5 @@
 import { BrowserRouter } from 'react-router-dom';
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import {
   About,
   Contact,
@@ -12,6 +13,7 @@ import {
 const App = () => {
   return (
     <BrowserRouter>
+      <SpeedInsights />
       <div className="relative z-0">
         <div>
           <Navbar />

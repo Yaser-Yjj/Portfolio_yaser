@@ -159,8 +159,8 @@ const projects = [
     name: 'MunchBot',
     description: 'MunchBot is a device controlled via a mobile app, allowing pet owners to schedule and manage feeding times automatically.',
     image: komikult,
-    repo: 'https://github.com/0yaser0/MunchBotApp',
-    demo: 'https://github.com/0yaser0/MunchBotApp',
+    repo: 'https://github.com/Yaser-Yjj/MunchBotApp',
+    demo: 'https://github.com/Yaser-Yjj/MunchBotApp',
   },
   {
     id: 'project-2',
@@ -168,24 +168,24 @@ const projects = [
     description:
       'This contact management app enables users to easily manage contacts with features like calling, messaging, and searching, offering a simple and intuitive interface.',
     image: leaderboard,
-    repo: 'https://github.com/0yaser0/ContactApp_V2',
-    demo: 'https://github.com/0yaser0/ContactApp_V2',
+    repo: 'https://github.com/Yaser-Yjj/ContactApp_V2',
+    demo: 'https://github.com/Yaser-Yjj/ContactApp_V2',
   },
   {
     id: 'project-3',
     name: 'Any Taxy',
     description: 'This Android app simulates a taxi meter 🚖, tracking real-time distance 🌍, time ⏱️, and fare 💰 with Google Maps. It calculates fares dynamically, displays the driver\'s profile 👤, generates QR codes 📱, and sends notifications 🔔. Supports multiple languages 🌐 and manages permissions 🛂.',
     image: math,
-    repo: 'https://github.com/0yaser0/Any-Taxy',
-    demo: 'https://github.com/0yaser0/Any-Taxy',
+    repo: 'https://github.com/Yaser-Yjj/Any-Taxy',
+    demo: 'https://github.com/Yaser-Yjj/Any-Taxy',
   },
   {
     id: 'project-4',
     name: 'web recipes',
     description: `Explore a variety of delicious recipes with easy-to-follow instructions, all optimized for quick meals and healthy eating. I also worked with Three.js to create 3D models, enhancing interactive recipe visualization.`,
     image: movie,
-    repo: 'https://github.com/0yaser0/Project_school',
-    demo: 'https://github.com/0yaser0/Project_school',
+    repo: 'https://github.com/Yaser-Yjj/Project_school',
+    demo: 'https://github.com/Yaser-Yjj/Project_school',
   },
   {
     id: 'project-5',
@@ -193,8 +193,8 @@ const projects = [
     description:
       'As a member of the robotics club, I\'ve contributed to the design and assembly of various robots, enhancing my skills in robotics and technology. Using Three.js, I\’ve also developed 3D models to showcase the mechanical aspects of these robots, improving our projects\' interactivity and presentation.',
     image: nyeusi,
-    repo: 'https://github.com/0yaser0',
-    demo: 'https://github.com/0yaser0',
+    repo: 'https://github.com/Yaser-Yjj',
+    demo: 'https://github.com/Yaser-Yjj',
   },
 ];
 
